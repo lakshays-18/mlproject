@@ -138,6 +138,7 @@ venv.bak/
 myenv/
 artifacts/
 notebook/untitled.ipynb 
+catboost_info/
 
 # Spyder project settings
 .spyderproject
